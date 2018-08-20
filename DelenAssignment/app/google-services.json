@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "875861231200",
+    "firebase_url": "https://delenassignment.firebaseio.com",
+    "project_id": "delenassignment",
+    "storage_bucket": "delenassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875861231200:android:8f9bc0930198a6f2",
+        "android_client_info": {
+          "package_name": "com.example.mahesh.delenassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875861231200-h8nqcqftv06ab9384ps8iu94o9a9a8ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahesh.delenassignment",
+            "certificate_hash": "49058a5783bb3baaa88a9ee5ef4dbfcfe3c12d68"
+          }
+        },
+        {
+          "client_id": "875861231200-npcecaub4fqkik2s6oar53gv9e8p7rp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdRv6aJLCAoKbVLgvwYhxLLdns1JKZck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875861231200-npcecaub4fqkik2s6oar53gv9e8p7rp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
